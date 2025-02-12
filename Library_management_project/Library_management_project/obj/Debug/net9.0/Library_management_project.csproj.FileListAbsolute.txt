@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\Library_management_project\Library_management_project\bin\Debug\net9.0\Library_management_project.exe
+C:\Users\Acer\source\repos\Library_management_project\Library_management_project\bin\Debug\net9.0\Library_management_project.deps.json
+C:\Users\Acer\source\repos\Library_management_project\Library_management_project\bin\Debug\net9.0\Library_management_project.runtimeconfig.json
+C:\Users\Acer\source\repos\Library_management_project\Library_management_project\bin\Debug\net9.0\Library_management_project.dll
+C:\Users\Acer\source\repos\Library_management_project\Library_management_project\bin\Debug\net9.0\Library_management_project.pdb
+C:\Users\Acer\source\repos\Library_management_project\Library_management_project\obj\Debug\net9.0\Library_management_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Library_management_project\Library_management_project\obj\Debug\net9.0\Library_management_project.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Library_management_project\Library_management_project\obj\Debug\net9.0\Library_management_project.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Library_management_project\Library_management_project\obj\Debug\net9.0\Library_management_project.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Library_management_project\Library_management_project\obj\Debug\net9.0\Library_management_project.dll
+C:\Users\Acer\source\repos\Library_management_project\Library_management_project\obj\Debug\net9.0\refint\Library_management_project.dll
+C:\Users\Acer\source\repos\Library_management_project\Library_management_project\obj\Debug\net9.0\Library_management_project.pdb
+C:\Users\Acer\source\repos\Library_management_project\Library_management_project\obj\Debug\net9.0\Library_management_project.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Library_management_project\Library_management_project\obj\Debug\net9.0\ref\Library_management_project.dll
